@@ -1,0 +1,5 @@
+/home/kiso/Documents/raspberrypi/project/build/pioasm-install/pioasm/pioasm
+/home/kiso/Documents/raspberrypi/project/build/pioasm-install/pioasm/pioasmTargets.cmake
+/home/kiso/Documents/raspberrypi/project/build/pioasm-install/pioasm/pioasmTargets-release.cmake
+/home/kiso/Documents/raspberrypi/project/build/pioasm-install/pioasm/pioasmConfig.cmake
+/home/kiso/Documents/raspberrypi/project/build/pioasm-install/pioasm/pioasmConfigVersion.cmake
