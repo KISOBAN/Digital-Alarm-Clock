@@ -9,7 +9,7 @@
 ; Repeatedly get one word of data from the TX FIFO, stalling when the FIFO is
 ; empty. Write the last 4 bits of the pins to the output
 
-	pull
+		pull
     	out pins, 4
     	
      
