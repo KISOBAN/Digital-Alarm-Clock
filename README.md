@@ -1,0 +1,1 @@
+This is a digital clock that has the option of being a stopwatch as well. This was done with the Raspberry PI Pico W, a 4 digit seven segment display, a shift register, 3 buttons and an active buzzer.
