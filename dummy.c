@@ -239,8 +239,6 @@ int main() {
           interrupt_flag = false;
           gpio_set_irq_enabled_with_callback(set, GPIO_IRQ_EDGE_FALL, true, &set_button_handler); // re-enable the interrupt request for this button
         } 
-
-// have this executed on another core so that the value will always be incremented    
   
     // if you press the set button set up the stop watch
         displaychars(pio,sm,offset,current_time);
