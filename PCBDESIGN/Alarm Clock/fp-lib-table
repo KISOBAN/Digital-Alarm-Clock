@@ -1,0 +1,4 @@
+(fp_lib_table
+	(version 7)
+	(lib (name "ShiftRegister") (type "KiCad") (uri "${KIPRJMOD}/ShiftRegister.pretty") (options "") (descr ""))
+)
